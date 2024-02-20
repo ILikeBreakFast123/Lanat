@@ -1,2 +1,3 @@
 # Lanat
-Barti Wali Lanat
+Barti Wali Lanat tum ko
+ git 
